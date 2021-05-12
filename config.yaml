@@ -1,0 +1,4 @@
+environment: ${ENVIRONMENT}
+
+rest_api:
+  server_address: ${REST_API_SERVER_ADDRESS}
